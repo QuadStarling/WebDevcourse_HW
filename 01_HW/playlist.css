@@ -44,3 +44,11 @@ a:hover {
   color: darkblue;
   font-weight: bold;
 }
+
+.link_click {
+  color: darkblue;
+}
+
+.link_click:visited {
+  color: purple;
+}
